@@ -1,0 +1,10 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+python-dotenv
+PyMySQL
+cryptography
+django-cors-headers
+django-environ
+cloudinary
+django-cloudinary-storage
